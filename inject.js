@@ -1,22 +1,3 @@
-  /*
-  !!!For particular videos
-
-  var currentUrl = window.location.href;
-  var currentVideo = document.getElementById('movie_player');
-  var currentTitle = document.getElementById('eow-title').getAttribute('title');
-  var currentDate = document.getElementById('eow-date').innerHTML;
-
-  if(!document.getElementById('masthead-expanded-menu-email')){
-    alert("LOGIN ASSHOLE!!!!!");
-  }
-  else{
-    var userName = document.getElementById('yt-masthead-user-displayname').innerHTML;
-    var userEmail = document.getElementById('masthead-expanded-menu-email').innerHTML;
-  }
-  alert("Your current url is :"+ currentUrl);
-  */
-  //FOR HOME PAGE
-  // /$('#feed').alert("ewogh");
   var userName;
   var userEmail;
   if (!document.getElementById('masthead-expanded-menu-email')) {
